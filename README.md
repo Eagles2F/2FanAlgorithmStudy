@@ -4,7 +4,7 @@
 This is the practice repo for the leetcode website exercises.
 
 Progress:
- 7 / 174
+ 8 / 174
 
  Solved Problems:
 Minimum Depth of Binary Tree
@@ -14,3 +14,4 @@ Balanced Binary Tree
 Binary Tree Level Order Traversal I
 Binary Tree Level Order Traversal II
 Same Tree
+Path Sum
